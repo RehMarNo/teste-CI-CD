@@ -1,0 +1,1 @@
+[![Build Status](https://app.travis-ci.com/RehMarNo/teste-CI-CD.svg?branch=main)](https://app.travis-ci.com/RehMarNo/teste-CI-CD)
