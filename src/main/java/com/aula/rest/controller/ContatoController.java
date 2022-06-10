@@ -12,6 +12,6 @@ public class ContatoController {
 
 	@GetMapping
 	public ResponseEntity<String> getMsg(){
-		return ResponseEntity.status(HttpStatus.OK).body("Hello");
+		return ResponseEntity.status(HttpStatus.OK).body("Hello Guys");
 	}
 }
